@@ -1,0 +1,9 @@
+com\microservices_project\order_service\model\Items.class
+com\microservices_project\order_service\repository\OrderRepository.class
+com\microservices_project\order_service\repository\ItemRepository.class
+com\microservices_project\order_service\OrderServiceApplication.class
+com\microservices_project\order_service\model\Order.class
+com\microservices_project\order_service\dto\ItemsDto.class
+com\microservices_project\order_service\dto\OrderRequest.class
+com\microservices_project\order_service\service\OrderService.class
+com\microservices_project\order_service\controller\OrderController.class
